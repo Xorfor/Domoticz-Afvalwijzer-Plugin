@@ -25,9 +25,9 @@ Currently the following places/companies are supported:
 ## Parameters
 | Parameter             | Description
 | :---                  | :---
-| **Postal code (NL)**  | Enter your postal code in the format 1234AB
-| **House number**      | Enter you house number
-| **Alert days before** | Specify when you will get de highest alert (level 4 = red). "0" (default) will give you the alert on the collection day, "1" will be the day before, etc.
+| **Postal&nbsp;code&nbsp;(NL)**  | Enter your postal code in the format 1234AB
+| **House&nbsp;number**      | Enter you house number
+| **Alert&nbsp;days&nbsp;before** | Specify when you will get de highest alert (level 4 = red). "0" (default) will give you the alert on the collection day, "1" will be the day before, etc.
 | **Debug**             | False (default) or True
 
 ## Devices
